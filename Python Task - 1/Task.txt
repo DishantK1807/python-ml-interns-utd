@@ -1,0 +1,5 @@
+Write a python code to find the occurence of the letter 'o' in the each word present in the words2.txt file.
+- Store the indexes in the list.
+- Create the dictionary for the index and the corresponding word
+- Print the dictionary
+- Search a word in the the dictionary
